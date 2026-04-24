@@ -1,6 +1,7 @@
-streamlit
-tensorflow==2.16.1
-numpy
-pillow
-nltk
-matplotlib
+- Python 3.10
+- TensorFlow
+- Matplotlib
+- pickle
+- tqdm
+- NLTK(Natural language Tool kit)
+- Numpy
