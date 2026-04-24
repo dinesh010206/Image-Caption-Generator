@@ -10,6 +10,7 @@
 - predict.py
 - evaluate.py
 - utils.py
+- app.py
 
 ## Requirements
 - Python 3.10
@@ -20,7 +21,5 @@
 - NLTK(Natural language Tool kit)
 - Numpy
 
-## application Link
-http://localhost:8501/
 
 
