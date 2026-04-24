@@ -6,9 +6,6 @@ __pycache__/
 features/
 uploads/
 
-model/*.keras
-model/*.h5
-model/*.pkl
 
 Thumbs.db
 .DS_Store
