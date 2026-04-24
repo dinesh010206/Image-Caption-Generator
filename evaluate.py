@@ -193,7 +193,7 @@ for image_id, desc_list in test_descriptions.items():
     plt.title("Actual generated Caption: " + " ".join(references[0]), fontsize=12)
     plt.show()
 
-    if count == 20:
+    if count == 10:
         break
 
    
