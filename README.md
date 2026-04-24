@@ -20,7 +20,7 @@
 - NLTK(Natural language Tool kit)
 - Numpy
 
-## Run
-python train.py
-python predict.py
-python evaluate.py
+## application Link
+http://localhost:8501/
+
+
