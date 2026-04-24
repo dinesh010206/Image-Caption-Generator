@@ -1,5 +1,5 @@
 # Image Caption Generator
- Image Caption Generator using the transformers,CNN and LSTM
+ Image Caption Generator using the transformers,attention mechanism,CNN and LSTM
 
  ## Datasets
  - Flickr8k_dataset(images)
@@ -13,7 +13,7 @@
 
 ## Requirements
 - Python 3.10
-- TensorFlow 2.10.0
+- TensorFlow
 - Matplotlib
 - pickle
 - tqdm
